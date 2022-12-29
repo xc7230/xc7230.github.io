@@ -21,11 +21,11 @@ author: Some Person
 
 navbar-links:
   About : "aboutme"
-  Project : ""
+  Project : "project"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Blog: ""
+  Blog: "blog"
 
 ################
 # --- Logo --- #
