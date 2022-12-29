@@ -260,7 +260,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: "Cloud/"
       type: "posts"
     values:
       layout: "post"
