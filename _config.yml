@@ -20,12 +20,11 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About : "aboutme"
+  About : "about"
   Project : "project"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Blog: "blog"
 
 ################
 # --- Logo --- #
