@@ -272,6 +272,16 @@ defaults:
     values:
       layout: "page"
 
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: "post"
+      comments: true
+      social-share: true
+
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md

@@ -3,7 +3,7 @@ layout: post
 title:  "KTcloud_NAS"
 categories: KTcloud
 ---
-KT Cloud를 이용한 NAS
+KT Cloud를 이용한 NAS<br/>
 
 # NAS
 ## NAS 생성하기
