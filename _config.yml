@@ -283,6 +283,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author_profile: true
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
