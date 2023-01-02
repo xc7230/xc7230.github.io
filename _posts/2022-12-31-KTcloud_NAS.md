@@ -1,7 +1,15 @@
 ---
-layout: post
-title:  "KTcloud_NAS"
-categories: KTcloud
+title: '[Cloud] KT Cloud를 이용한 Server와 NAS 연동'
+categories:
+    - Cloud
+
+tag:
+    - Cloud
+    - KTcloud
+    - NAS
+
+last_modified_at: 2022-12-31T15:00:00+09:00
+toc: true
 ---
 KT Cloud를 이용한 NAS<br/>
 
