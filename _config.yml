@@ -1,4 +1,4 @@
-###########################################################
+####################################################categories#######
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -30,6 +30,24 @@ navbar-links:
 ################
 # --- Logo --- #
 ################
+
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+   enabled:
+     - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
