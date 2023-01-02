@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   About : "about"
   Project : "project"
-  Category : "category"
+  Category : "categories"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
