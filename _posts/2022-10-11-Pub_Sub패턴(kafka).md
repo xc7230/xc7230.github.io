@@ -2,10 +2,10 @@
 title: '[Linux] Kafka'
 categories:
     - Linux
-	- DATA
+    - DATA
 tag:
     - Linux
-	- DATA
+    - DATA
 
 
 last_modified_at: 2022-10-11T09:00:00+09:00
