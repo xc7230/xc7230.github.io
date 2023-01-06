@@ -301,9 +301,9 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-  # projects
+  # _projects
   - scope:
-      path: "_projects"
+      path: ""
       type: projects
     values:
       layout: single
