@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -300,3 +301,14 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+  # projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
